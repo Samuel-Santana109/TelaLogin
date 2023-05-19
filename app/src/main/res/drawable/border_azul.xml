@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000" /> <!-- Cor do fundo transparente -->
+    <stroke
+        android:color="#0000FA"
+         android:width="2dp" /> <!-- Largura da borda -->
+
+    <corners android:radius="4dp" /> <!-- Raio dos cantos do botão -->
+</shape>
+    <!-- Raio dos cantos do botão -->
